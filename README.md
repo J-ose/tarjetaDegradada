@@ -1,0 +1,1 @@
+# tarjetaDegradada con transparencia espejo 
